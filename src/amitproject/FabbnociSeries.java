@@ -17,6 +17,7 @@ public class FabbnociSeries {
 		System.out.print(" "+d);
 		a=b;
 		b=d;
+		System.out.println("AMIT");
 	}
 	}
 
