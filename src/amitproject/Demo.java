@@ -9,6 +9,7 @@ int b = 30;
 int c=a+b;
 		System.out.println("The value of c:"+c);
 		System.out.println(a*b);
+		System.out.println("changes by other");
 	}
 
 }
